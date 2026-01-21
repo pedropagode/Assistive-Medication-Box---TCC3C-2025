@@ -68,3 +68,6 @@ The adoption of the ESP-NOW protocol in this project offers several advantages:
 * Ideal for assistive and real-time embedded applications.
 
 These characteristics make ESP-NOW an appropriate and efficient solution for the Assistive Medicine Box.
+
+Here is the link to the video demonstrating how the project works.
+https://youtu.be/DHLaOhzLl80
